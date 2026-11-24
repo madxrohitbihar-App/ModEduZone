@@ -1,0 +1,6 @@
+{
+  "name": "madxrohitbihar",
+  "description": "madxrohitbihar - All Study Batches, Video Lectures, PDF Notes, DPPs & AppX Coaching Portals",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
